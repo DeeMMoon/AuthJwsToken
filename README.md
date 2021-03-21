@@ -1,1 +1,1 @@
-# AuthJwsToken
+Incomplete authorization with Jwt token
